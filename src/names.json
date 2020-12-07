@@ -1,45 +1,44 @@
 {
-  "Gregorian": {
-    "weekdays": {
-      "en": {
-        "long": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-        "short": ["Sun", "Mon", "Tue", "Wed", "Thur", "Fri", "Sat"],
-        "narrow": ["Su", "M", "Tu", "W", "Th", "F", "Sa"]
-      },
-      "de": {
-        "long": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Sonntag"],
-        "short": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
-        "narrow": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"]
-      }
+    "Gregorian": {
+        "weekdays": {
+            "en": {
+                "long": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+                "short": ["Sun", "Mon", "Tue", "Wed", "Thur", "Fri", "Sat"],
+                "narrow": ["Su", "M", "Tu", "W", "Th", "F", "Sa"]
+            },
+            "de": {
+                "long": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Sonntag"],
+                "short": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"],
+                "narrow": ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"]
+            }
+        },
+        "months": {
+            "en": {
+                "long": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+                "short": ["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sept", "Oct", "Nov", "Dec"]
+            },
+            "de": {
+                "long": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+                "short": ["Jan", "Feb", "März", "Apr", "Mai", "Jun", "Jul", "Aug", "Sept", "Okt", "Nov", "Dez"]
+            }
+        }
     },
-    "months": {
-      "en": {
-        "long": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
-        "short": ["Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sept", "Oct", "Nov", "Dec"]
-      },
-      "de": {
-        "long": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
-        "short": ["Jan", "Feb", "März", "Apr", "Mai", "Jun", "Jul", "Aug", "Sept", "Okt", "Nov", "Dez"]
-      }
+    "Islamic": {
+        "weekdays": {
+            "en": {
+                "long": ["Sun", "Mon", "Tue", "Wed", "Thur", "Fri", "Sat"]
+            },
+            "ar": {
+                "long": ["الأحد", "الإثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت"]
+            }
+        },
+        "months": {
+            "en": {
+                "long": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-awwal", "Jumada al-thani", "Rajab", "Sha'aban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"]
+            },
+            "ar": {
+                "long": ["محرم", "صفر", "ربيع الأول", "ربيع الثاني", "جمادى الأولى", "جمادى الآخرة", "رجب", "شعبان", "رمضان", "شوال", "ذو القعدة", "ذو الحجة"]
+            }
+        }
     }
-  },
-  "Islamic": {
-    "weekdays": {
-      "en": {
-        "long": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-         "short": ["Sun", "Mon", "Tue", "Wed", "Thur", "Fri", "Sat"]
-      },
-      "ar": {
-        "long": ["الأحد", "الإثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت"]
-      }
-    },
-    "months": {
-      "en": {
-        "long": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-awwal", "Jumada al-thani", "Rajab", "Sha'aban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"]
-      },
-      "ar": {
-        "long": ["محرم", "صفر", "ربيع الأول", "ربيع الثاني", "جمادى الأولى", "جمادى الآخرة", "رجب", "شعبان", "رمضان", "شوال", "ذو القعدة", "ذو الججة"]
-      }
-    }
-  }
 }
